@@ -10,17 +10,17 @@
 
 <body>
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTender247%2F&psig=AOvVaw1HOHXata0UAlxlD74EDSZ0&ust=1683356266754000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDN2PTM3f4CFQAAAAAdAAAAABAE"
-        alt="Tender247">
+        alt="Tender247"><br>
     <h1>Tenders From Security Printing Industry</h1>
-
+<hr>
     <div>
         <p class="para">
             Hello,
             Good Day ! Hope this email finds you well.
-            Bidders are invited to participate in this Business Opportunity of ì Software Development î
+            Bidders are invited to participate in this Business Opportunity of ‚Äú Software Development ‚Äù
         </p>
     </div>
-
+<br><hr>
     <div class="tenders">
         <ol>
             <li>
@@ -33,24 +33,24 @@
                     Deadline: 22-05-2023
                     <strong> Estimated Cost: 18.69 Billion PHP </strong>
                 </p>
-            </li>
+            </li><br><hr>
             <li>
                 <p>
                     Description: Printing services of <em>100,000,000 million stamps</em>
                     Country: Bosnia And Herzegovina
                     Deadline: 24-04-2023
                 </p>
-            </li>
+            </li><br><hr>
             <li>
                 <p>
                     Description: Supply Of Rewritable Ic Card, <em> 120,000 Cards</em>
                     Country: Asia
                     Deadline: 18-05-2023
                 </p>
-            </li>
+            </li><br><hr>
         </ol>
     </div>
-
+    <br><hr>
     <div>
         <p>
         <ol>
